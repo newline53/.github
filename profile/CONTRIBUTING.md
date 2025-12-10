@@ -1,4 +1,4 @@
-# Contributing to This Project
+# Contributing to Newline by Fifth Third
 
 Thank you for your interest in contributing to Newline by Fifth Third! Because we are part of a regulated banking environment, we operate with stricter security controls than most open-source projects. Please read the guidelines below before interacting with our repositories.
 
