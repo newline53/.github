@@ -8,7 +8,7 @@ Newline is an **embedded payments API platform powered by Fifth Third Bank**. Ou
 
 ## Contribute
 
-We welcome contributions! Please review our guidelines in `CONTRIBUTING.md`.
+We welcome contributions! Please review our guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 For inquiries or partnerships, [contact us](https://newline53.com/contact-us.html).
 
@@ -18,4 +18,4 @@ For inquiries or partnerships, [contact us](https://newline53.com/contact-us.htm
 
 - [**Newline Developer Documentation**](https://developers.newline53.com/docs/welcome)
 
-- [**Contact Us**](https://newline53.com/contact-us.html)
+- [**Website**](https://newline53.com/)
