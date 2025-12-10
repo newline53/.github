@@ -22,14 +22,10 @@ We welcome contributions! Please review our guidelines in `CONTRIBUTING.md`.
 
 For inquiries or partnerships, [contact us](https://newline53.com/contact-us.html).
 
-### Additional Resources
+## Additional Resources
 
 - [**Postman Collection**](https://www.postman.com/newline53/newline-by-fifth-third)
 
-- [**Newline API Documentation**](https://developers.newline53.com/reference/getting_started_guide).
-
 - [**Newline Developer Documentation**](https://developers.newline53.com/docs/welcome)
-
-- [**Website**](https://www.newline53.com/)
 
 - [**Contact Us**](https://newline53.com/contact-us.html)
